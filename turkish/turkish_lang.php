@@ -3596,7 +3596,7 @@ $lang['save_and_send_later']            = 'Kaydet ve Daha Sonra Gönder';
 $lang['schedule']                       = 'Planla';
 $lang['schedule_email_for']             = 'Epostayı şunun için planla %s';
 $lang['schedule_date']                  = 'E-postayı ne zaman göndermek istersiniz?';
-$lang['email_scheduled_successfully']   = 'Email scheduled successfully';
+$lang['email_scheduled_successfully']   = 'E-Posta zamanlandı';
 $lang['invoice_will_be_sent_at']        = 'Fatura şu tarihte gönderilecek %s';
 
 # Version 2.5.0
